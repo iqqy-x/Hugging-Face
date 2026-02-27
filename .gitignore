@@ -1,3 +1,5 @@
 .env
 v3-rtdetr-r50-gambling-finetune/
 v2-vit-gambling-finetune/
+v3-gambling-dataset/
+v2-gambling-dataset-bersih/
